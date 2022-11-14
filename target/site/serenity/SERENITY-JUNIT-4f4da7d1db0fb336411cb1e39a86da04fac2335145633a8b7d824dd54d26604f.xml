@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Guru99Bank" skipped="0" tests="1" time="6.95" timestamp="2021-11-30 04:00:52"><testcase name="Cuenta nueva"><error message="Keys to send should be a not null CharSequence" type="java.lang.IllegalArgumentException">Keys to send should be a not null CharSequence</error><system-err>Keys to send should be a not null CharSequence&#13;
+com.demoguru99.automation.pageobjects.CuentaNuevaPageObjects.setTxt_ClienteID(CuentaNuevaPageObjects.java:23)&#13;
+com.demoguru99.automation.steps.ClienteYCuentaNuevaSteps.datosCuentaNueva(ClienteYCuentaNuevaSteps.java:82)&#13;
+com.demoguru99.test.stepsdefinitions.ClienteYCuentaNuevaStepsDefinitions.igreseElIDCustomerYCreoNuevaCuenta(ClienteYCuentaNuevaStepsDefinitions.java:46)&#13;
+✽.Igrese el ID customer y creo nueva cuenta(src/test/resources/features/ClienteYCuentaNueva.feature:19)&#13;
+</system-err></testcase></testsuite>
